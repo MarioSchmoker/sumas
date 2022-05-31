@@ -1,2 +1,2 @@
-# sumas
+# practicaArreglo
 Created with CodeSandbox
